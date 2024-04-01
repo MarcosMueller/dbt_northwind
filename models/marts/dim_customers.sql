@@ -8,3 +8,4 @@ with
 
 select *
 from dim_customers
+
