@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: northwind
+    database: curso-etl-101
+    schema: erp_northwind
+    tables:
+      - name: categories  
+      - name: customers
+      - name: employee_territories
+      - name: employees
+      - name: order_details
+      - name: orders
+      - name: products
+      - name: shippers
+      - name: suppliers
+
